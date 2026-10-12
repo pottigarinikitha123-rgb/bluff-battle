@@ -1,0 +1,16 @@
+{
+  "name": "bluff-battle",
+  "version": "1.0.0",
+  "description": "Real-time multiplayer bluffing party game for 2-8 players",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
